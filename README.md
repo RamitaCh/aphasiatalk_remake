@@ -1,17 +1,8 @@
-# intern
+# Aphasia Talk (remake version)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# aphasiatalk_remake" 
+แอพลิเคชั่นที่ทำขึ้นในช่วงของการฝึกงานด้านการทำ Mobile Application กับบริษัท A-Host Co., Ltd ระหว่างวันที่ 21 มิถุนาคม - 6 สิงหาคม 2564 
+โดยเป็นการนำแอพลิเคชั่น Aphasia Talk เดิมที่มีอยู่ มาออกแบบและจัดทำขึ้นใหม่โดยใช้ Flutter และ Firebase 
+และมีสมาชิคในทีม 3 คน ได้แก่
+1. นางสาว รมิตา จงแจ่ม
+2. นางสาว ธัญจิรา ทอเจริญ
+3. นางสาว ปรภัทร์ โห้สงวน
