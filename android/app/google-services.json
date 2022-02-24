@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "494729338211",
+    "project_id": "aphasiatalk-169dd",
+    "storage_bucket": "aphasiatalk-169dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494729338211:android:d2b312f2bb1cc732618756",
+        "android_client_info": {
+          "package_name": "com.example.intern"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494729338211-dktd3rs279t0qm9t6930987javkgplmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAd1_Oc91Sp2Gvri88Y75xnddmyOmo0x0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494729338211-dktd3rs279t0qm9t6930987javkgplmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

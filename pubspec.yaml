@@ -1,0 +1,42 @@
+name: aphasiatalk
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.11.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  holding_gesture: ^1.1.0
+
+  cupertino_icons: ^1.0.2
+  flutter_tts: ^3.2.1
+  provider: ^5.0.0
+  sembast: ^3.1.0+2
+  path_provider: ^2.0.2
+  path: ^1.8.0
+  cloud_firestore: ^2.3.0
+  firebase_core: ^1.4.0
+  cached_network_image: ^3.1.0
+  flutter_native_splash: ^1.2.1
+  flutter_gradients: ^1.0.0+3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter_native_splash:
+    color: "#ffffff"
+    image: assets/atlogo.png
+    andriod: true
+    ios: true
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+
